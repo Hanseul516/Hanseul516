@@ -1,4 +1,6 @@
-# 🙌 Hello, I'm Hanseul 🙌
+<div align="center">
+
+# 🙌   Hello, I'm Hanseul   🙌
 
 <br>
 
@@ -16,14 +18,18 @@
 <br>
 
 
-## 🦄 GitHub Stats 🦄　[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanseul516&count_bg=%23D9D9D9&title_bg=%23DD6BFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 🦄 GitHub Stats 🦄　
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanseul516&theme=omni)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanseul516&langs_count=10&layout=compact&theme=dark)
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanseul516&count_bg=%23D9D9D9&title_bg=%23DD6BFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
 
 
-## ✨ Contact
+## ✨ Contact ✨
 
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:hanseulo@naver.com)
+  
+  </div>
