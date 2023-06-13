@@ -1,4 +1,5 @@
-# 🙌 Hello, I'm Hanseul
+# 🙌 Hello, I'm Hanseul 🙌
+<br>
 
 # 🛠 Tech Stack 🛠
 ![html](https://camo.githubusercontent.com/6065d87cae56732970fa895b3daf434f6fdcd7cbe4be777cedb3f94b83ac3233/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465)
@@ -8,13 +9,17 @@
 
 ![notion](https://camo.githubusercontent.com/0f6325940d36137c3e77d69b0dfe0ffb33e9a1084faf9cc843a9c929a874c709/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465)
 
+<br>
 
-# 🦄 GitHub Stats 🦄[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanseul516&count_bg=%23E3E3E3&title_bg=%23FFB3B3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+# 🦄 GitHub Stats 🦄　[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanseul516&count_bg=%23E3E3E3&title_bg=%23FFB3B3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanseul516&theme=omni)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanseul516&langs_count=10&layout=compact&theme=dark)
 
 
 # ✨ Contact
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/)
+
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:hanseulo@naver.com)
+
+<br><br>
