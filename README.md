@@ -19,9 +19,7 @@
 
 
 ## 🦄 GitHub Stats 🦄　
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanseul516&theme=omni)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanseul516&langs_count=10&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=Hanseul516&theme=omni" width="320" alt="Anurag's GitHub stats">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanseul516&langs_count=10&layout=compact&theme=dark)
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanseul516&count_bg=%23D9D9D9&title_bg=%23DD6BFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
