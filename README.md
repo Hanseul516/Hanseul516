@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🙌   Hello, I'm Hanseul   🙌
+# 🙌   안녕하세요, 프론트엔드개발자 최한슬입니다   🙌
 
 <br>
 
