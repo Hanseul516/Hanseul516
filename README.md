@@ -23,7 +23,7 @@
 ## 🦄 Stats 🦄　
 <img src="https://github-readme-stats.vercel.app/api?username=Hanseul516&theme=omni" width="320" alt="Anurag's GitHub stats">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanseul516&langs_count=10&layout=compact&theme=dark)
 <a href="https://solved.ac/hanseulo">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=최한슬" width="320" height="139">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Hanseul" width="320" height="139">
 </a>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanseul516&count_bg=%23D9D9D9&title_bg=%23DD6BFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
