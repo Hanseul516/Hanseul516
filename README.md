@@ -25,7 +25,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hanseulo)](https://solved.ac/hanseulo)
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanseul516&count_bg=%23D9D9D9&title_bg=%23DD6BFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FB8FDA&title_bg=%23868282&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 <br>
