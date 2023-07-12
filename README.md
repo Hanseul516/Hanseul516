@@ -21,11 +21,13 @@
 
 
 ## 🦄 Stats 🦄　
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanseul516&count_bg=%23FF99F0&title_bg=%239A9595&icon=reverbnation.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 <img src="https://github-readme-stats.vercel.app/api?username=Hanseul516&theme=omni" width="320" alt="Anurag's GitHub stats">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanseul516&langs_count=10&layout=compact&theme=dark)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hanseulo)](https://solved.ac/hanseulo)
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FB8FDA&title_bg=%23868282&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 
 
 <br>
