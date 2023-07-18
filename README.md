@@ -46,7 +46,7 @@
 ## ✨ Contact ✨
 
 ![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hanseulo@naver.com)
-<img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white&link=https://duseul.tistory.com/"/>
+<img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white&link=duseul.tistory.com/"/>
 
   
   </div>
