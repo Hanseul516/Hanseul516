@@ -6,12 +6,21 @@
 
 
 ## 🛠 Tech Stack 🛠
-![html](https://camo.githubusercontent.com/6065d87cae56732970fa895b3daf434f6fdcd7cbe4be777cedb3f94b83ac3233/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465)
-![css](https://camo.githubusercontent.com/661418f6520a9893084884793fc5b76a80d7b12f19e78a861aec5600a96a9e18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d7768697465)
-![js](https://camo.githubusercontent.com/bdd7161401e7e99e51dc088614d7fed5e0781cacbd2c0de5c61b1e0dbe9e307f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465)<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
+<br>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
-<!-- ![react]   (https://camo.githubusercontent.com/b9407742da276aeb0a5c370f68a93fc1b6b9e768348af06b059d5e8dd25f6b20/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d5265616374266c6f676f436f6c6f723d7768697465) -->
+
+<br>
+
+<!--   
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+
+ -->
 
 <!-- ##  Tool 
 
@@ -36,6 +45,8 @@
 
 ## ✨ Contact ✨
 
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:hanseulo@naver.com)
+![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hanseulo@naver.com)
+<img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white&link=https://duseul.tistory.com/"/>
+
   
   </div>
